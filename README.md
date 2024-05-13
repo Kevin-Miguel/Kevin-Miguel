@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kevin-Miguel
+- 👀 I’m interested in Learn
+- 🌱 I’m currently learning Pythonand JAVA sript
+- 💞️ I’m looking to collaborate on none
+- 📫 How to reach me: on mexico
+- 😄 Pronouns: none
+- ⚡ Fun fact: A journey of a thousand miles begins with the first step - Lao Tzu
