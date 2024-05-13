@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kevin-Miguel
-- 👀 I’m interested in Learn
+- 👋 Hi, I’m Kevin-Miguel
+- 🙂 i'm 17 years old
+- 👀 I’m interested in Learn logic on python
 - 🌱 I’m currently learning Pythonand JAVA sript
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me: on mexico
-- 😄 Pronouns: none
-- ⚡ Fun fact: A journey of a thousand miles begins with the first step - Lao Tzu
+- 📫 How to reach me: on facebook for Kevin miguel user name
+- ⚡ Fun fact: i speak speak some english, its ard to me understand when speaks me english to fast
