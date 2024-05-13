@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin-Miguel
 - 🙂 i'm 17 years old
 - 👀 I’m interested in Learn logic on python
-- 🌱 I’m currently learning Pythonand JAVA sript
+- 🌱 I’m currently learning Python and JAVA sript
 - 📫 How to reach me: on facebook for Kevin miguel user name
 - ⚡ Fun fact: i speak speak some english, its ard to me understand when speaks me english to fast
