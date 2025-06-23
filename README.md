@@ -3,4 +3,4 @@
 - 👀 I’m interested in Learn logic on python
 - 🌱 I’m currently learning Python and JAVA sript
 - 📫 How to reach me: on facebook for Kevin miguel user name
-- ⚡ Fun fact: i speak some english, it's hard to me understand when speaks me english to fast
+- ⚡ Fun fact: i speak some english, it's hard to me understand when speaks me english to fast.
